@@ -1,5 +1,5 @@
 // cara membuat variabel
-var a= 'a';
+var a = 'a';
 let b = 'b';
 const c = 'c';
 
@@ -21,19 +21,19 @@ console.log(angka1 * angka2, 'perkalian')
 console.log(angka1 % angka2, 'modulus')
 
 // disini kita belajar mengisi variabel
-let penampungHasislOperatorAritmatika = angka1 + angka2;
+let penampungHasilOperatorAritmatika = angka1 + angka2;
 console.log(penampungHasislOperatorAritmatika); // 30
 
-penampungHasislOperatorAritmatika = angka1 - angka2;
+penampungHasilOperatorAritmatika = angka1 - angka2;
 console.log(penampungHasislOperatorAritmatika); // -10
 
-penampungHasislOperatorAritmatika = angka1 / angka2;
+penampungHasilOperatorAritmatika = angka1 / angka2;
 console.log(penampungHasislOperatorAritmatika); // ntah berapa :)
 
-penampungHasislOperatorAritmatika = angka1 * angka2;
+penampungHasilOperatorAritmatika = angka1 * angka2;
 console.log(penampungHasislOperatorAritmatika); // 200
 
-penampungHasislOperatorAritmatika = angka1 % angka2;
+penampungHasilOperatorAritmatika = angka1 % angka2;
 console.log(penampungHasislOperatorAritmatika); // 10
 
 
@@ -73,3 +73,5 @@ console.log(true + 10); //11
 
 // tipsnya adalah selalu teliti, dan kalau ada error dibaca aja, dan belajar ngoding itu perlu KEBIASAAAN
 // karena NGODING ADALAH HABIT
+
+
