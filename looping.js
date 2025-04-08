@@ -84,7 +84,7 @@
 // }
 // console.log('selesai')
 
-//kesimpulan
+// kesimpulan
 // looping sering bertemu dengan method length
 // looping itu agar membuat code jadi lebih pendek
 // looping itu agar membuat suatu proses menjadi dinamis
